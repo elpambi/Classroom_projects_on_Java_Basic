@@ -16,4 +16,4 @@ This project is developed in Java and includes several functionalities to improv
 ## Installation and Execution
 1. Clone this repository:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git](https://github.com/elpambi/Classroom_projects_on_Java.git)
+   git clone https://github.com/elpambi/Classroom_projects_on_Java.git
